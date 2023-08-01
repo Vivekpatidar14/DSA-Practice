@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cctype>
 using namespace std;
-
+//boolean funtion  
 bool palindrome(string st)
 {
     int s = 0;
