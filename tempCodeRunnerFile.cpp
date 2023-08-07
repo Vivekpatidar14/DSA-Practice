@@ -1,14 +1,8 @@
- // int i = 1;
-
-    // while (i <= n)
-    // {
-    //     int j = 1;
-    //     while (j <= i)
-    //     {
-    //         cout << "*";
-
-    //         j++;
-    //     }
-    //     cout << endl;
-    //     i++;
-    // }  
+for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 3; j++)
+        {
+            cout << arr[i][j] << " ";
+        }
+        cout << endl;
+    }
